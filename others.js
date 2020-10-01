@@ -24,4 +24,3 @@ jQuery(document).ready(function (_0x83517) {
     _0x83517(window).on('scroll', function () {
         _0x83517(this).scrollTop() > 500 ? _0x44e3cb.fadeIn() : _0x44e3cb.fadeOut();
     });
-});
